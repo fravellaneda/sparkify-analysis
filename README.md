@@ -31,4 +31,10 @@ As you may notice it's very important to know what are the main reasons why a cu
 
 ## Principal Results
 
+The main results of the analysis can be found at a medium post [here](https://medium.com/@fr-ave/a-classification-model-with-pyspark-5023ace8592c).
+
 ![results](https://github.com/fravellaneda/sparkify-analysis-/blob/main/results.png)
+
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+
+This repository is part of the project of the udacity data scientist nanodegree program. Thanks for read, if you have comments or advices please contact me at the email fr_avellaneda@hotmail.com.
