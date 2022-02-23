@@ -12,7 +12,7 @@ As you may notice it's very important to know what are the main reasons why a cu
 
 ## File Description
 
-- Sparkify.ipynb, is the cleaning, data exploration, feature engineering, and modeling of the project. 
+- Sparkify.ipynb, is the cleaning, data exploration, feature engineering, and modeling of the project. For a correct visualization press [here](https://nbviewer.org/github/fravellaneda/sparkify-analysis/blob/main/Sparkify.ipynb).
 - results.png, is an image with the results of the models using in the project.
 
 ## Packages used
